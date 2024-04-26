@@ -1,4 +1,3 @@
-#changes are made
 
 def is_isosceles_triangle(a, b, c):
     if a == b or a == c or b == c:
@@ -13,4 +12,7 @@ c = float(input("Enter the length of side c: "))
 if is_isosceles_triangle(a, b, c):
     print("The triangle with sides {}, {}, {} is an Isosceles triangle.".format(a, b, c))
 else:
-    print("The triangle with sides {}, {}, {} is not an Isosceles triangle.".format(a, b, c))1
+    print("The triangle with sides {}, {}, {} is not an Isosceles triangle.".format(a, b, c))
+
+
+    #Daud razzaq changes made i will upload and commit now
